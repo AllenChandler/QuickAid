@@ -16,3 +16,17 @@ __pycache__/
 # Ignore logs, temp files, etc.
 *.log
 *.tmp
+
+
+# Ignore all image files
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.gif
+*.tiff
+
+# Ignore specific dataset folders (if applicable)
+dataset/
+images/
+data/
