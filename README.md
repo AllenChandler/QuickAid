@@ -389,7 +389,8 @@ For any questions or inquiries, please contact:
   - Email: allenjchandler@vt.edu
            allen@shiftedorigin.com
            allenjchandler@gmail.com
-  - GitHub: [wonmorewave](https://github.com/wonmorewave)
+  - GitHub: [AllenChandler](https://github.com/AllenChandler)
+  - X: WonMoreWave
 
 - **Jordan A Holmes**
   - Email: jah26603@vt.edu
