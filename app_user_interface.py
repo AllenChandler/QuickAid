@@ -9,7 +9,7 @@ from transformers import BertTokenizer, BertForQuestionAnswering
 
 
 # Set your OpenAI API key
-openai.api_key = "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"
+openai.api_key = ""
 
 @st.cache_resource
 def load_model():
